@@ -8,4 +8,4 @@ Referecnce
 
 ## Travel
 
-* [North Bengal Travel Guide][https://nomadicweekends.com/blog/category/north-bengal/]
+* [North Bengal Travel Guide](https://nomadicweekends.com/blog/category/north-bengal/)

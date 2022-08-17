@@ -6,6 +6,7 @@ Referecnce
 * [Explaining-Yolov4-a-One-Stage-Detector](https://becominghuman.ai/explaining-yolov4-a-one-stage-detector-cdac0826cbd7)
 * [YOLOv4](https://jonathan-hui.medium.com/yolov4-c9901eaa8e61)
 * [Reading: UNet 3+ — A Full-Scale Connected UNet (Medical Image Segmentation)](https://sh-tsang.medium.com/reading-unet-3-a-full-scale-connected-unet-medical-image-segmentation-ebb5e7f53caa)
+* [No More Strided Convolutions or Pooling: A New CNN Building Block for Low-Resolution Images and Small Objects](https://arxiv.org/abs/2208.03641v1)
 
 ## Travel
 

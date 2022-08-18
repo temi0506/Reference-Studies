@@ -9,6 +9,8 @@ Referecnce
 * [No More Strided Convolutions or Pooling: A New CNN Building Block for Low-Resolution Images and Small Objects](https://arxiv.org/abs/2208.03641v1)
 * [Find the best Reinforcement Learning jobs](https://www.upwork.com/freelance-jobs/reinforcement-learning/)
 * [Practical_RL](https://github.com/yandexdataschool/Practical_RL)
+* [Best DL Tutorial and refreshment](https://fullstackdeeplearning.com/spring2021/)
+* [Full Stack Deep Learning - Course 2022](https://fullstackdeeplearning.com/course/2022/)
 
 ## Travel
 

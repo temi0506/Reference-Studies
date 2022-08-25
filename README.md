@@ -11,6 +11,7 @@ Referecnce
 * [Practical_RL](https://github.com/yandexdataschool/Practical_RL)
 * [Best DL Tutorial and refreshment](https://fullstackdeeplearning.com/spring2021/)
 * [Full Stack Deep Learning - Course 2022](https://fullstackdeeplearning.com/course/2022/)
+* [YOLOV-updated releases classification](https://github.com/ultralytics/yolov5/releases)
 
 ## Travel
 

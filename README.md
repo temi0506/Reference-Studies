@@ -16,6 +16,7 @@ Referecnce
 * [introducing-the-playtorch-app rapidly create mobile AI experiences](https://pytorch.org/blog/introducing-the-playtorch-app/?content=playtorchv0.2launch)
 * [Deep Clustering for Mars Rover image datasets](https://arxiv.org/ftp/arxiv/papers/1911/1911.06623.pdf)
 * [Mars-Search-Robot](https://github.com/Salman-H/mars-search-robot)
+* [cuda-error-out-of-memory](https://maneeshkadanasseril.medium.com/cuda-error-out-of-memory-331d47d85414)
 
 ## Travel
 

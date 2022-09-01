@@ -18,6 +18,7 @@ Referecnce
 * [Mars-Search-Robot](https://github.com/Salman-H/mars-search-robot)
 * [cuda-error-out-of-memory](https://maneeshkadanasseril.medium.com/cuda-error-out-of-memory-331d47d85414)
 * [Top-10-Computer-Vision-papers-2020](https://www.kdnuggets.com/2021/01/top-10-computer-vision-papers-2020.html)
+* [Computer Vision Foundations Open Access](https://openaccess.thecvf.com/menu)
 
 ## Travel
 

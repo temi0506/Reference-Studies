@@ -25,6 +25,7 @@ Referecnce
 * [Weekly ML papers](https://papers.labml.ai/papers/weekly)
 * [The Why and the How of Deep Metric Learning.](https://towardsdatascience.com/the-why-and-the-how-of-deep-metric-learning-e70e16e199c0)
 * [Global Context Networks (GCNet) Explained](https://blog.paperspace.com/global-context-networks-gcnet/)
+* [FCOS: Fully Convolutional One Stage Detector](https://youtu.be/_ADYE6QaAAY)
 
 ## Travel
 

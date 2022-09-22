@@ -26,6 +26,7 @@ Referecnce
 * [The Why and the How of Deep Metric Learning.](https://towardsdatascience.com/the-why-and-the-how-of-deep-metric-learning-e70e16e199c0)
 * [Global Context Networks (GCNet) Explained](https://blog.paperspace.com/global-context-networks-gcnet/)
 * [FCOS: Fully Convolutional One Stage Detector](https://youtu.be/_ADYE6QaAAY)
+* [Global Context Vision Transformers](https://arxiv.org/pdf/2206.09959.pdf)
 
 ## Travel
 

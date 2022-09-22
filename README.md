@@ -27,6 +27,9 @@ Referecnce
 * [Global Context Networks (GCNet) Explained](https://blog.paperspace.com/global-context-networks-gcnet/)
 * [FCOS: Fully Convolutional One Stage Detector](https://youtu.be/_ADYE6QaAAY)
 * [Global Context Vision Transformers](https://arxiv.org/pdf/2206.09959.pdf)
+* [Reading: ShuffleNet V2 — Practical Guidelines for Efficient CNN Architecture Design (Image Classification)](https://sh-tsang.medium.com/reading-shufflenet-v2-practical-guidelines-for-e-fficient-cnn-architecture-design-image-287b05abc08a)
+* [Squeezenet Module]()
+* [Image Segmentation Loss: IoU vs Dice Coefficient](https://youtu.be/AZr64OxshLo)
 
 ## Travel
 

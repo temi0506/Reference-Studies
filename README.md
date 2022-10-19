@@ -30,6 +30,7 @@ Referecnce
 * [Reading: ShuffleNet V2 — Practical Guidelines for Efficient CNN Architecture Design (Image Classification)](https://sh-tsang.medium.com/reading-shufflenet-v2-practical-guidelines-for-e-fficient-cnn-architecture-design-image-287b05abc08a)
 * [Squeezenet Module](https://youtu.be/ge_RT5wvHvY)
 * [Image Segmentation Loss: IoU vs Dice Coefficient](https://youtu.be/AZr64OxshLo)
+* [How I mastered Data Structures and Algorithms](https://youtu.be/s2mYsPWzLjg)
 
 ## Travel
 

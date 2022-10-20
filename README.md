@@ -31,7 +31,8 @@ Referecnce
 * [Squeezenet Module](https://youtu.be/ge_RT5wvHvY)
 * [Image Segmentation Loss: IoU vs Dice Coefficient](https://youtu.be/AZr64OxshLo)
 * [How I mastered Data Structures and Algorithms](https://youtu.be/s2mYsPWzLjg)
-* [Docker Tutorial](https://youtu.be/0qG_0CPQhpg)
+* [Docker Tutorial ML](https://youtu.be/0qG_0CPQhpg)
+* [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://youtu.be/3c-iBn73dDE)
 
 ## Travel
 

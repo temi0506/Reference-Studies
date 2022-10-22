@@ -36,6 +36,7 @@ Referecnce
 * [1st Two Lessons of From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022-preview.html)
 * [Walk with fastai](https://walkwithfastai.com/)
 * [Lesson 9 (part 2) preview Satble Diffusion](https://forums.fast.ai/t/lesson-9-part-2-preview/101336)
+* [Diffusion Models | Paper Explanation | Math Explained](https://youtu.be/HoKDTa5jHvg)
 
 ## Travel
 

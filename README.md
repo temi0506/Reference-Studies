@@ -38,6 +38,7 @@ Referecnce
 * [Lesson 9 (part 2) preview Satble Diffusion](https://forums.fast.ai/t/lesson-9-part-2-preview/101336)
 * [Diffusion Models | Paper Explanation | Math Explained](https://youtu.be/HoKDTa5jHvg)
 * [Practical Deep Learning FasiAI](https://course.fast.ai/)
+* [58 Dr. Ben Goertzel - Artificial General Intelligence](https://youtu.be/sw8IE3MX1SY)
 
 ## Travel
 

@@ -41,7 +41,8 @@ Referecnce
 * [58 Dr. Ben Goertzel - Artificial General Intelligence](https://youtu.be/sw8IE3MX1SY)
 * [Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings](https://youtu.be/dichIcUZfOw)
 
-## Travel
+## Art
 
 * [North Bengal Travel Guide](https://nomadicweekends.com/blog/category/north-bengal/)
 * [All trek info and packages](https://trekthehimalayas.com/alltreks/)
+* [Why Jesse James is a Cinematic Masterpiece - Frame by Frame](https://youtu.be/-6TxS8XNZyw)

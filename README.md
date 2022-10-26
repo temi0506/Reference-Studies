@@ -40,6 +40,7 @@ Referecnce
 * [Practical Deep Learning FasiAI](https://course.fast.ai/)
 * [58 Dr. Ben Goertzel - Artificial General Intelligence](https://youtu.be/sw8IE3MX1SY)
 * [Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings](https://youtu.be/dichIcUZfOw)
+* [Deep Learning Course by Yann Lecuun](https://atcold.github.io/pytorch-Deep-Learning/)
 
 ## Art
 

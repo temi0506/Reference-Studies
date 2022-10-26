@@ -41,6 +41,7 @@ Referecnce
 * [58 Dr. Ben Goertzel - Artificial General Intelligence](https://youtu.be/sw8IE3MX1SY)
 * [Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings](https://youtu.be/dichIcUZfOw)
 * [Deep Learning Course by Yann Lecuun](https://atcold.github.io/pytorch-Deep-Learning/)
+* [Full Stack Deep Learning 2021](https://fullstackdeeplearning.com/spring2021/)
 
 ## Art
 

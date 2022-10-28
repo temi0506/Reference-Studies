@@ -44,6 +44,7 @@ Referecnce
 * [Full Stack Deep Learning 2021](https://fullstackdeeplearning.com/spring2021/)
 * [Swin Transformer paper animated and explained](https://youtu.be/SndHALawoag)
 * [ConvNext paper](https://www.youtube.com/watch?v=QqejV0LNDHA)
+* [Learning to learn: An Introduction to Meta Learning](https://youtu.be/ByeRnmHJ-uk)
 
 ## Art
 

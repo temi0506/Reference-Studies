@@ -42,6 +42,7 @@ Referecnce
 * [Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings](https://youtu.be/dichIcUZfOw)
 * [Deep Learning Course by Yann Lecuun](https://atcold.github.io/pytorch-Deep-Learning/)
 * [Full Stack Deep Learning 2021](https://fullstackdeeplearning.com/spring2021/)
+* [Swin Transformer paper animated and explained](https://youtu.be/SndHALawoag)
 
 ## Art
 

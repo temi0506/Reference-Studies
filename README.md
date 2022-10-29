@@ -45,6 +45,7 @@ Referecnce
 * [Swin Transformer paper animated and explained](https://youtu.be/SndHALawoag)
 * [ConvNext paper](https://www.youtube.com/watch?v=QqejV0LNDHA)
 * [Learning to learn: An Introduction to Meta Learning](https://youtu.be/ByeRnmHJ-uk)
+* [How to Use "memory_profiler" to Profile Memory Usage by Python Code?](https://coderzcolumn.com/tutorials/python/how-to-profile-memory-usage-in-python-using-memory-profiler)
 
 ## Art
 

@@ -46,6 +46,7 @@ Referecnce
 * [ConvNext paper](https://www.youtube.com/watch?v=QqejV0LNDHA)
 * [Learning to learn: An Introduction to Meta Learning](https://youtu.be/ByeRnmHJ-uk)
 * [How to Use "memory_profiler" to Profile Memory Usage by Python Code?](https://coderzcolumn.com/tutorials/python/how-to-profile-memory-usage-in-python-using-memory-profiler)
+* [Matlab RObotics Series](https://www.youtube.com/playlist?list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV)
 
 ## Art
 

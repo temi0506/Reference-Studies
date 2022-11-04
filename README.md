@@ -49,6 +49,7 @@ Referecnce
 * [Matlab RObotics Series](https://www.youtube.com/playlist?list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV)
 * [Exploring the Limits of Synthetic Creation of Solar EUV Images via Image-to-image
 Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
+* [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
 
 ## Art
 

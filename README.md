@@ -47,6 +47,8 @@ Referecnce
 * [Learning to learn: An Introduction to Meta Learning](https://youtu.be/ByeRnmHJ-uk)
 * [How to Use "memory_profiler" to Profile Memory Usage by Python Code?](https://coderzcolumn.com/tutorials/python/how-to-profile-memory-usage-in-python-using-memory-profiler)
 * [Matlab RObotics Series](https://www.youtube.com/playlist?list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV)
+* [Exploring the Limits of Synthetic Creation of Solar EUV Images via Image-to-image
+Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 
 ## Art
 

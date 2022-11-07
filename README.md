@@ -52,6 +52,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
 * [Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces](https://paperswithcode.com/paper/sub-center-arcface-boosting-face-recognition)
 * [Global Context Networks (GCNet) Explained](https://blog.paperspace.com/global-context-networks-gcnet/)
+* [How can one quickly look up people from a large database?](https://datascience.stackexchange.com/questions/49581/how-can-one-quickly-look-up-people-from-a-large-database)
 
 ## Art
 

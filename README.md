@@ -54,6 +54,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Global Context Networks (GCNet) Explained](https://blog.paperspace.com/global-context-networks-gcnet/)
 * [How can one quickly look up people from a large database?](https://datascience.stackexchange.com/questions/49581/how-can-one-quickly-look-up-people-from-a-large-database)
 * [10 INSTAGRAM TIPS for Photographers in 2021](https://youtu.be/X_ZH2sjiNvo)
+* [SegFormer](https://huggingface.co/docs/transformers/model_doc/segformer)
 
 ## Art
 

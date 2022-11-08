@@ -57,6 +57,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [SegFormer](https://huggingface.co/docs/transformers/model_doc/segformer)
 * [Segmenter: Transformer for Semantic Segmentation
 ](https://github.com/rstrudel/segmenter)
+* [Application of Hybrid Network of UNet and Feature Pyramid Network in Spine Segmentation](https://ieeexplore.ieee.org/document/9478765)
 
 ## Art
 

@@ -59,6 +59,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 ](https://github.com/rstrudel/segmenter)
 * [Application of Hybrid Network of UNet and Feature Pyramid Network in Spine Segmentation](https://ieeexplore.ieee.org/document/9478765)
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
+* [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers [BCNet, CVPR 2021]](https://github.com/lkeab/BCNet)
 
 ## Art
 

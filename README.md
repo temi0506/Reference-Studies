@@ -62,6 +62,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers [BCNet, CVPR 2021]](https://github.com/lkeab/BCNet)
 * [COCO Semantic Segmentation](https://github.com/temi0506/Reference-Studies/blob/main/COCOdataset_SemanticSegmentation_Demo.ipynb)
 * [Effect of batch size on training dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e)
+* [Create virtual environments for python with conda](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
 
 ## Art
 

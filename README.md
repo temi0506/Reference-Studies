@@ -64,6 +64,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Effect of batch size on training dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e)
 * [Create virtual environments for python with conda](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
 * [COAT Net](https://arxiv.org/pdf/2106.04803.pdf)
+* [This is a game changer! (AlphaTensor by DeepMind explained)](https://youtu.be/3N3Bl5AA5QU)
 
 ## Art
 

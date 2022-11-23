@@ -73,6 +73,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Learning to learn: An Introduction to Meta Learning](https://youtu.be/ByeRnmHJ-uk)
 * [A Tutorial on Attention in Deep Learning (Monday, June 10 - Hall A - 13](https://www.facebook.com/icml.imls/videos/2970931166257998)
 * [Roger Penrose | Gravity, Hawking Points and Twistor Theory](https://youtu.be/9Gl8pwY2kW8)
+* [AI for Robotics](https://www.linkedin.com/posts/harshit-ahluwalia_freecourses-datascience-activity-7000775589326405632-iDC8?utm_source=share&utm_medium=member_android)
 
 ## Art
 

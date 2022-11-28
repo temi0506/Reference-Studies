@@ -76,6 +76,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [AI for Robotics](https://www.linkedin.com/posts/harshit-ahluwalia_freecourses-datascience-activity-7000775589326405632-iDC8?utm_source=share&utm_medium=member_android)
 * [OneFormer: An Universal Image Segmentation Framework That Unifies Segmentation With A Multi-Task Train-Once Design](https://www.marktechpost.com/2022/11/20/oneformer-an-universal-image-segmentation-framework-that-unifies-segmentation-with-a-multi-task-train-once-design/)
 * [Class-agnostic Object Detection](https://youtu.be/L15fb-oWkBs)
+* [Heatmap-based Explanation of YOLOv5 Object Detection with Layer-wise Relevance Propagation](https://ieeexplore.ieee.org/document/9827744)
 
 ## Art
 

@@ -77,6 +77,8 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [OneFormer: An Universal Image Segmentation Framework That Unifies Segmentation With A Multi-Task Train-Once Design](https://www.marktechpost.com/2022/11/20/oneformer-an-universal-image-segmentation-framework-that-unifies-segmentation-with-a-multi-task-train-once-design/)
 * [Class-agnostic Object Detection](https://youtu.be/L15fb-oWkBs)
 * [Heatmap-based Explanation of YOLOv5 Object Detection with Layer-wise Relevance Propagation](https://ieeexplore.ieee.org/document/9827744)
+* [COCO to YOLOV5 conversion](https://github.com/pylabel-project/samples/blob/main/coco2yolov5.ipynb)
+* [Object Detection Annotation Conversion PyLabel](https://github.com/pylabel-project/pylabel)
 
 ## Art
 

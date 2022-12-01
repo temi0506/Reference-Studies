@@ -79,6 +79,8 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Heatmap-based Explanation of YOLOv5 Object Detection with Layer-wise Relevance Propagation](https://ieeexplore.ieee.org/document/9827744)
 * [COCO to YOLOV5 conversion](https://github.com/pylabel-project/samples/blob/main/coco2yolov5.ipynb)
 * [Object Detection Annotation Conversion PyLabel](https://github.com/pylabel-project/pylabel)
+* [An Overview of Robotics Perception](https://www.youtube.com/watch?v=LgwjcqhkOA4)
+* [How Robots See: Computer Vision and Robot Perception with Miguel Valencia](https://www.youtube.com/watch?v=DhO2ZJckiT8)
 
 ## Art
 

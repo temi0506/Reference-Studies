@@ -81,6 +81,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Object Detection Annotation Conversion PyLabel](https://github.com/pylabel-project/pylabel)
 * [An Overview of Robotics Perception](https://www.youtube.com/watch?v=LgwjcqhkOA4)
 * [How Robots See: Computer Vision and Robot Perception with Miguel Valencia](https://www.youtube.com/watch?v=DhO2ZJckiT8)
+* [#82 - Dr. JOSCHA BACH - Digital Physics, DL and Consciousness ](https://www.youtube.com/watch?v=LgwjcqhkOA4)
 
 ## Art
 

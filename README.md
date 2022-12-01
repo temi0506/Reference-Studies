@@ -86,6 +86,8 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Different IoU Losses for Faster and Accurate Object Detection](https://medium.com/analytics-vidhya/different-iou-losses-for-faster-and-accurate-object-detection-3345781e0bf)
 * [focal_loss.binary_focal_loss](https://focal-loss.readthedocs.io/en/latest/generated/focal_loss.binary_focal_loss.html)
 * [Focal-loss-a-better-alternative-for-cross-entropy](https://towardsdatascience.com/focal-loss-a-better-alternative-for-cross-entropy-1d073d92d075#:~:text=Focal%20loss%20achieves%20this%20through,to%20the%20Cross%2DEntropy%20loss.)
+* [IoU Metrics | IOU, Generalised IoU ( GIOU ), Distance IOU ( DIOU ) and Complete IoU (CIOU) Explained](https://youtu.be/6gwgYa5zldg)
+* [Different IoU Losses for Faster and Accurate Object Detection](https://medium.com/analytics-vidhya/different-iou-losses-for-faster-and-accurate-object-detection-3345781e0bf)
 
 ## Art
 

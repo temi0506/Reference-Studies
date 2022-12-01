@@ -83,6 +83,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [How Robots See: Computer Vision and Robot Perception with Miguel Valencia](https://www.youtube.com/watch?v=DhO2ZJckiT8)
 * [#82 - Dr. JOSCHA BACH - Digital Physics, DL and Consciousness ](https://www.youtube.com/watch?v=LgwjcqhkOA4)
 * [Tips for Best Training Results YOLOV5](https://github.com/ultralytics/yolov5/wiki/Tips-for-Best-Training-Results)
+* [Different IoU Losses for Faster and Accurate Object Detection](https://medium.com/analytics-vidhya/different-iou-losses-for-faster-and-accurate-object-detection-3345781e0bf)
 
 ## Art
 

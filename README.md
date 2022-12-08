@@ -90,6 +90,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Different IoU Losses for Faster and Accurate Object Detection](https://medium.com/analytics-vidhya/different-iou-losses-for-faster-and-accurate-object-detection-3345781e0bf)
 * [Everything You Want to Know About ONNX](https://www.youtube.com/watch?v=cK5AyawZSUI&t=2587s)
 * [Data Science Gems Deep Learning Podcast Queries](https://www.youtube.com/@datasciencegems3186/videos)
+* [OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o)
 
 ## Art
 

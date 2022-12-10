@@ -91,6 +91,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Everything You Want to Know About ONNX](https://www.youtube.com/watch?v=cK5AyawZSUI&t=2587s)
 * [Data Science Gems Deep Learning Podcast Queries](https://www.youtube.com/@datasciencegems3186/videos)
 * [OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o)
+* [Bridging the Gap Between Anchor-Based and Anchor-Free Detection via Adaptive Training Sample Sele...](https://youtu.be/CnchEvVhI3c)
 
 ## Art
 

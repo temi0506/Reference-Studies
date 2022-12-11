@@ -93,6 +93,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o)
 * [Bridging the Gap Between Anchor-Based and Anchor-Free Detection via Adaptive Training Sample Sele...](https://youtu.be/CnchEvVhI3c)
 * [FCOS - Fully Convolutional One Stage Detector](https://youtu.be/zE6QmdaRk1g)
+* [VoltaMl is an open-source lightweight library to accelerate your machine learning and deep learning models. VoltaML can optimize, compile and deploy your models to your target CPU and GPU devices, with just one line of code.](https://github.com/VoltaML/voltaML)
 
 ## Art
 

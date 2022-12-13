@@ -100,6 +100,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [BiDet: An Efficient Binarized Object Detector](https://github.com/ZiweiWangTHU/BiDet)
 * [Momentum Contrast Self supervised learning paper](https://paperswithcode.com/method/moco)
 * [NCNN lightweight - ncnn is a high-performance neural network inference computing framework optimized for mobile platforms](https://github.com/Tencent/ncnn)
+* [CutMix: A new strategy for Data Augmentation](https://sarthakforwet.medium.com/cutmix-a-new-strategy-for-data-augmentation-bbc1c3d29aab#61dc)
 
 ## Art
 

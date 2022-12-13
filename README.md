@@ -107,6 +107,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [SSD object detection](https://github.com/amdegroot/ssd.pytorch)
 * [YOLOX is an anchor-free version of YOLO](https://github.com/Megvii-BaseDetection/YOLOX)
 * [You Only Learn One Representation: Unified Network for Multiple Tasks](https://github.com/WongKinYiu/yolor)
+* [Centernet Objects as Points](https://github.com/xingyizhou/CenterNet)
 
 ## Art
 

@@ -95,6 +95,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [FCOS - Fully Convolutional One Stage Detector](https://youtu.be/zE6QmdaRk1g)
 * [VoltaMl is an open-source lightweight library to accelerate your machine learning and deep learning models. VoltaML can optimize, compile and deploy your models to your target CPU and GPU devices, with just one line of code.](https://github.com/VoltaML/voltaML)
 * [Google doc supporting ML algorithms plugin tutorial](https://simplemlforsheets.com/tutorial.html)
+* [Install Git and Github in VSCode](https://www.jcchouinard.com/install-git-in-vscode/#:~:text=Enable%20Git%20in%20VS%20Code,-To%20enable%20Git&text=Go%20to%20File%20%3E%20Preferences,that%20the%20box%20is%20ticked)
 
 ## Art
 

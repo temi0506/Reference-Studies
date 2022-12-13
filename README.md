@@ -104,6 +104,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Transfer Learning for Fundus Image Quality Assessment Using Discriminating Patches](https://www.researchgate.net/publication/360372467_Transfer_Learning_for_Fundus_Image_Quality_Assessment_Using_Discriminating_Patches)
 * [Data Augmentation for Object Detection Cutmix, Cutout](https://www.kaggle.com/code/ankursingh12/data-augmentation-for-object-detection)
 * [Data Augmentation Tutorial: Basic, Cutout, Mixup](https://www.kaggle.com/code/kaushal2896/data-augmentation-tutorial-basic-cutout-mixup)
+* [SSD object detection](https://github.com/amdegroot/ssd.pytorch)
 
 ## Art
 

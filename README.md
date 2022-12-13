@@ -105,6 +105,8 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Data Augmentation for Object Detection Cutmix, Cutout](https://www.kaggle.com/code/ankursingh12/data-augmentation-for-object-detection)
 * [Data Augmentation Tutorial: Basic, Cutout, Mixup](https://www.kaggle.com/code/kaushal2896/data-augmentation-tutorial-basic-cutout-mixup)
 * [SSD object detection](https://github.com/amdegroot/ssd.pytorch)
+* [YOLOX is an anchor-free version of YOLO](https://github.com/Megvii-BaseDetection/YOLOX)
+* [You Only Learn One Representation: Unified Network for Multiple Tasks](https://github.com/WongKinYiu/yolor)
 
 ## Art
 

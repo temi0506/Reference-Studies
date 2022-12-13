@@ -99,6 +99,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Binary Quantizer](file:///C:/Users/prompt/Downloads/334-Article%20Text-738-1-10-20181224.pdf)
 * [BiDet: An Efficient Binarized Object Detector](https://github.com/ZiweiWangTHU/BiDet)
 * [Momentum Contrast Self supervised learning paper](https://paperswithcode.com/method/moco)
+* [NCNN lightweight - ncnn is a high-performance neural network inference computing framework optimized for mobile platforms](https://github.com/Tencent/ncnn)
 
 ## Art
 

@@ -108,6 +108,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [YOLOX is an anchor-free version of YOLO](https://github.com/Megvii-BaseDetection/YOLOX)
 * [You Only Learn One Representation: Unified Network for Multiple Tasks](https://github.com/WongKinYiu/yolor)
 * [Centernet Objects as Points](https://github.com/xingyizhou/CenterNet)
+* [Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. It is the successor of Detectron and maskrcnn-benchmark](https://github.com/facebookresearch/detectron2)
 
 ## Art
 

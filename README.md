@@ -115,6 +115,7 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Icevision doc -- IceVision is the first agnostic computer vision framework to offer a curated collection with hundreds of high-quality pre-trained models from Torchvision, Open MMLab's MMDetection, Ultralytic's YOLOv5, Ross Wightman's EfficientDet and soon PyTorch Image Models. It orchestrates the end-to-end deep learning workflow allowing to train networks with easy-to-use robust high-performance libraries such as PyTorch-Lightning and Fastai.](https://airctic.com/0.7.0/)
 * [A faster way to ship your models to production](https://www.bentoml.com/)
 * [SEResNeXt paper](https://paperswithcode.com/model/seresnext?variant=seresnext50-32x4d)
+* [GhostNetV2: Enhance Cheap Operation with Long-Range Attention](https://arxiv.org/pdf/2211.12905.pdf)
 
 ## Art
 

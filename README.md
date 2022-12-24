@@ -124,9 +124,10 @@ Translation](https://iopscience.iop.org/article/10.3847/1538-4357/ac867b/pdf)
 * [Understanding Kalman Filters
 MATLAB
 ](https://www.youtube.com/watch?v=mwn8xhgNpFY&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr)
-* [DeepSort Explanation]([https://www.youtube.com/watch?v=LbyqsoLJu5Q&t=527s](https://youtu.be/LbyqsoLJu5Q)
+* [DeepSort Explanation](https://youtu.be/LbyqsoLJu5Q)
 * [LIDAR Technology, Principles](https://youtu.be/YtWb9CWGF10)
 * [Demystifying Attention in Computer Vision with Convolutional Neural Networks](https://youtu.be/20BfBIUKgpQ)
+* [Vision Transformer Explained](https://youtu.be/TrdevFK_am4)
 
 ## Art
 

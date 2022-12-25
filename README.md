@@ -129,6 +129,7 @@ MATLAB
 * [Demystifying Attention in Computer Vision with Convolutional Neural Networks](https://youtu.be/20BfBIUKgpQ)
 * [Vision Transformer Explained](https://youtu.be/TrdevFK_am4)
 * [IOU Loss](https://arxiv.org/pdf/1608.01471.pdf)
+* [Image Segmentation Using Deep Learning](https://youtu.be/hjMwPjU1tRc)
 
 ## Art
 

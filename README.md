@@ -128,6 +128,7 @@ MATLAB
 * [LIDAR Technology, Principles](https://youtu.be/YtWb9CWGF10)
 * [Demystifying Attention in Computer Vision with Convolutional Neural Networks](https://youtu.be/20BfBIUKgpQ)
 * [Vision Transformer Explained](https://youtu.be/TrdevFK_am4)
+* [IOU Loss](https://arxiv.org/pdf/1608.01471.pdf)
 
 ## Art
 

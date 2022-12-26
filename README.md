@@ -131,6 +131,7 @@ MATLAB
 * [IOU Loss](https://arxiv.org/pdf/1608.01471.pdf)
 * [Image Segmentation Using Deep Learning](https://youtu.be/hjMwPjU1tRc)
 * [Get Visual Studio Code terminal history](https://superuser.com/questions/1460404/get-visual-studio-code-terminal-history)
+* [YOLOX Explanation — Mosaic and Mixup For Data Augmentation](https://medium.com/mlearning-ai/yolox-explanation-mosaic-and-mixup-for-data-augmentation-3839465a3adf)
 
 ## Art
 

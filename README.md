@@ -132,7 +132,8 @@ MATLAB
 * [Image Segmentation Using Deep Learning](https://youtu.be/hjMwPjU1tRc)
 * [Get Visual Studio Code terminal history](https://superuser.com/questions/1460404/get-visual-studio-code-terminal-history)
 * [YOLOX Explanation — Mosaic and Mixup For Data Augmentation](https://medium.com/mlearning-ai/yolox-explanation-mosaic-and-mixup-for-data-augmentation-3839465a3adf)
-# [Pytorch Segmentation Models Resources](https://github.com/qubvel/segmentation_models.pytorch)
+* [Pytorch Segmentation Models Resources](https://github.com/qubvel/segmentation_models.pytorch)
+* [FPN Segmentation Doc](http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf)
 
 ## Art
 

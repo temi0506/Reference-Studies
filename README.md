@@ -136,6 +136,7 @@ MATLAB
 * [FPN Segmentation Doc](http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf)
 * [Python: logging program state into multiple files for analysis](https://python.plainenglish.io/python-capturing-info-logs-into-multiple-files-for-analysis-f0befdcaaa33)
 * [MaxViT: Multi-Axis Vision Transformer](https://arxiv.org/pdf/2204.01697.pdf)
+* [Exploiting Multiprocessing and Multithreading in Python as a Data Scientist](https://medium.com/analytics-vidhya/exploiting-multithreading-and-multiprocessing-in-python-as-a-data-scientist-e2c98b61997a)
 
 ## Art
 

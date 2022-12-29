@@ -135,6 +135,7 @@ MATLAB
 * [Pytorch Segmentation Models Resources](https://github.com/qubvel/segmentation_models.pytorch)
 * [FPN Segmentation Doc](http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf)
 * [Python: logging program state into multiple files for analysis](https://python.plainenglish.io/python-capturing-info-logs-into-multiple-files-for-analysis-f0befdcaaa33)
+* [MaxViT: Multi-Axis Vision Transformer](https://arxiv.org/pdf/2204.01697.pdf)
 
 ## Art
 
